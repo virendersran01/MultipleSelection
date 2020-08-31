@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MultipleSelection</string>
+    <string name="tv_shows">TV Shows</string>
+    <string name="add_to_watchlist">Add To Watchlist</string>
+</resources>
